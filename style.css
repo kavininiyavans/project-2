@@ -1,0 +1,33 @@
+body{
+    font-family: Verdana;
+   
+}
+#heading{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 80px;
+    color:white;
+    background-color: purple;
+}
+#bill{
+    background-color: purple ;
+}
+#total{
+   padding-left: 845px;
+   background-color: ;
+}
+#final{
+    color:black;
+    background-color: white;
+}
+#tablerow{
+    height: 30px;
+}
+#product,#quantity,#price{
+    border: solid 1.57px;
+    border-radius: 5px;
+}
+#but1{
+    background-color: #b3adc0;
+    border-radius: 5px;
+    color: rgb(222, 232, 240);
+}
